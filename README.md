@@ -5,9 +5,11 @@ This is a sample website project
 showing how to use git  and github together
 
 #Introduction
-this is another example to show different parts
+intro text
 ## Purpose
 
 Sample website with plenty of files for demos
 ## Deployment
+another stage
+adding deployment
 ## How to contribute

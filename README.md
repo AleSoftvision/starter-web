@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 This is a sample website project 
 showing how to use git  and github together
-
+"""""""""""""""more lines for rebase""""""""""""""""""
 #Introduction
 intro text
 ## Purpose

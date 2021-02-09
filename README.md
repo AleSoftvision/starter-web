@@ -13,4 +13,5 @@ Sample website with plenty of files for demos
 another stage
 adding deployment
 ## How to contribute
+please fork this repo then issue a pull request for review
 ###Adding copyright

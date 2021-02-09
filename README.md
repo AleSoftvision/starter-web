@@ -13,3 +13,4 @@ Sample website with plenty of files for demos
 another stage
 adding deployment
 ## How to contribute
+###Adding copyright
